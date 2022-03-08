@@ -9,8 +9,8 @@
 
 # Usage
 ```bash
-python superResolution.py {images_path} {images_super_path} 
-example: 
+python dash2alfred.py {dash_path} {snippets_path} 
+example:
 
     python dash2alfred.py                                    \
       /Users/nowage/Dropbox/Data/Dash/dashSnippetsForJMac2017.dash \
@@ -20,10 +20,10 @@ example:
 
 # Prerequisite
 ```bash
-python3 -m pip install pysqlite3 
+python3 -m pip install pysqlite3
 ```
 
 # ToDo
 - Place Holder Migration : @cursor --> {cursor}
 
-# 
+#
